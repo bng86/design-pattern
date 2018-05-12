@@ -33,7 +33,7 @@ description: >-
   * Singleton
   * Factory
 * 結構模式
-  * Facade
+  * [Facade](https://andyang.gitbook.io/design-pattern/facade-pattern)
   * [Adapter](https://andyang.gitbook.io/design-pattern/adapter_pattern)
 * 行為模式
   * Template
