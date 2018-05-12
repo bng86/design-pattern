@@ -10,7 +10,26 @@ description: >-
 >
 > 但這邊的範例都會使用 Android \(kotlin\) 來撰寫，畢竟我是個 Android Developer。
 
+範例程式碼 GitHub : [https://github.com/bng86/design-pattern-in-android](https://github.com/bng86/design-pattern-in-android)
 
+記得在你的 **string.xml** 中補上你的 **sdk api key**
+
+{% code-tabs %}
+{% code-tabs-item title="string.xml" %}
+```markup
+<resources>
+    <string name="mapbox_key">YOUR MAPBOX API KEY HERE</string>
+    <string name="google_map_key">YOUR GOOGLE MAP API KEY HERE</string>
+</resources>
+```
+{% endcode-tabs-item %}
+
+{% code-tabs-item title=undefined %}
+```
+
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 * 生成模式
   * Singleton
