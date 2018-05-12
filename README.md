@@ -16,6 +16,6 @@ description: >-
   * Singleton
 * 結構模式
   * [Facade](https://andyang.gitbook.io/design-pattern/~/edit/primary/)
-  * Adapter
+  * [Adapter](https://andyang.gitbook.io/design-pattern/adapter_pattern)
 * 行為模式
 
