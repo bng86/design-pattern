@@ -4,6 +4,8 @@
 
 這裡透過 **Google Map SDK** 與 **MapBox SDK** 做範例
 
+Adapter Pattern source code : [https://github.com/bng86/design-pattern-in-android/tree/master/app/src/main/java/tw/andyang/designpattern/adapter](https://github.com/bng86/design-pattern-in-android/tree/master/app/src/main/java/tw/andyang/designpattern/adapter)
+
 先定義出 **MapAdapter** 的介面
 
 {% code-tabs %}
