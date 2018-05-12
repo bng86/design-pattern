@@ -1,10 +1,12 @@
 ---
 description: >-
   在經歷了學習 Design Pattern、 看到什麼都是 Design Pattern、誤用 Design Pattern、忘了 Design
-  Pattern 後透過這次的上課再次 recap 自己對於 Design Pattern 的理解
+  Pattern 後透過這次在 SkillTree 上決戰設計模式再次 recap 自己對於 Design Pattern 的理解
 ---
 
 # SkillTree Design Pattern 上課心得
+
+附上決戰設計模式課程網址給有興趣的人：[https://skilltree.my/events/8ebcg](https://skilltree.my/events/8ebcg)
 
 > 課程的內容都是透過 C\# 當作範例
 >
@@ -23,18 +25,16 @@ description: >-
 </resources>
 ```
 {% endcode-tabs-item %}
-
-{% code-tabs-item title=undefined %}
-```
-
-```
-{% endcode-tabs-item %}
 {% endcode-tabs %}
+
+這邊會把上課講到的 **Pattern** 透過我自己內化後再次撰寫成 **Android Kotlin Sample**
 
 * 生成模式
   * Singleton
+  * Factory
 * 結構模式
-  * [Facade](https://andyang.gitbook.io/design-pattern/~/edit/primary/)
+  * Facade
   * [Adapter](https://andyang.gitbook.io/design-pattern/adapter_pattern)
 * 行為模式
+  * Template
 
