@@ -13,7 +13,7 @@ description: >-
 
 
 * 生成模式
-  * 
+  * Singleton
 * 結構模式
   * [Facade](https://andyang.gitbook.io/design-pattern/~/edit/primary/)
   * Adapter
